@@ -1,58 +1,78 @@
-# Employee Performance Dashboard
+# Interactive Workforce Performance Analytics Dashboard
 
 Power BI | Excel | HR Analytics
 
 ## Overview
 
-This repository contains an end-to-end HR analytics project developed using **Microsoft Power BI** and **Microsoft Excel**.
+This repository contains an end-to-end HR analytics project developed using Microsoft Power BI and Microsoft Excel.
 
-The project analyzes employee performance, productivity, attendance, payroll, and workforce distribution through an interactive dashboard designed to support data-driven decision-making.
+A synthetic HR dataset was created from scratch in Excel and transformed into an interactive dashboard to analyze workforce performance, productivity, attendance, payroll, and operational efficiency. The project demonstrates data preparation, dashboard development, KPI reporting, and business insight generation.
 
 ---
 
 ## 📂 Repository Contents
 
-📄 employee_performance_report.pdf
+📄 Employee-Performance-Dashboard.pdf
 
-Full project report including dashboard pages, business insights, and recommendations.
+Project documentation including methodology, dashboard design, insights, and recommendations.
 
-📊 employee_performance_dashboard.pbix
+📊 Employee_Performance_Dashboard.pbix
 
 Interactive Power BI dashboard.
 
 📑 excel/
 
-employee_performance_dataset.xlsx
+Workforce Analytics and Performance InsightsDATA.xlsx
 
 ---
 
 ## ▶️ How to View the Project
 
-- Start with **employee_performance_report.pdf** for the complete project overview.
-- Open **employee_performance_dashboard.pbix** to explore the interactive dashboard.
-- Review the Excel dataset to understand the data preparation process.
+1. Read **Employee-Performance-Dashboard.pdf** to understand the project methodology.
+2. Open **Employee_Performance_Dashboard.pbix** to explore the interactive dashboard.
+3. Review the Excel dataset to understand how the data was generated and prepared.
 
 ---
 
 ## 🧹 Data Preparation
 
-The HR dataset was created and prepared in **Microsoft Excel**, including:
+The HR dataset was created entirely in Microsoft Excel using formulas to simulate a realistic workplace environment.
 
-- Creating a structured employee dataset
-- Cleaning and validating employee records
-- Standardizing data fields
-- Preparing the dataset for dashboard development in Power BI
+The preparation process included:
+
+- Creating employee records
+- Generating working hours
+- Calculating attendance scores
+- Calculating productivity ratios
+- Calculating performance scores
+- Assigning performance categories
+- Simulating performance-based salaries
+- Validating and preparing the dataset for Power BI
 
 ---
 
 ## 📈 Key Analysis Areas
 
-- Employee Performance
+- Workforce Performance
 - Productivity Analysis
 - Attendance Analysis
-- Payroll Overview
-- Department Distribution
+- Payroll Analysis
+- Department Performance
 - Employee Directory
+- Operational Efficiency
+
+---
+
+## 📊 Dashboard Features
+
+- Interactive KPI Cards
+- Multi-page Dashboard
+- Department, Job Title, and Performance Filters
+- Navigation Buttons
+- Performance Insights
+- Executive Overview
+- Employee Directory
+- Strategic Recommendations
 
 ---
 
@@ -61,26 +81,17 @@ The HR dataset was created and prepared in **Microsoft Excel**, including:
 - Microsoft Power BI
 - Microsoft Excel
 - Power Query
+- Data Modeling
 - Data Visualization
-- Dashboard Development
 - KPI Reporting
+- Dashboard Development
 - Business Analysis
-
----
-
-## 📊 Dashboard Features
-
-- Interactive KPI Cards
-- Dynamic Charts
-- Slicers & Filters
-- Multi-page Dashboard
-- Business Insights & Recommendations
 
 ---
 
 ## 📊 Data Source
 
-This project uses a **synthetic HR dataset** created for educational and portfolio purposes.
+The dataset is synthetically generated and was created in Microsoft Excel for educational and portfolio purposes.
 
 ---
 
@@ -88,4 +99,4 @@ This project uses a **synthetic HR dataset** created for educational and portfol
 
 **Raghad Zayyat**
 
-Computer Engineering Graduate | Data Analytics | Power BI | Excel
+Computer Engineering Graduate
