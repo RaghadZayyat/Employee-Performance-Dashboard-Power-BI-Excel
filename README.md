@@ -1,33 +1,34 @@
 # Interactive Workforce Performance Analytics Dashboard
 
-Power BI | Excel | HR Analytics
+**Power BI | Microsoft Excel | HR Analytics**
 
 ## Overview
 
-This repository contains an end-to-end HR analytics project developed using Microsoft Power BI and Microsoft Excel.
+This repository contains an end-to-end HR analytics project developed using **Microsoft Power BI** and **Microsoft Excel**.
 
-A synthetic HR dataset was created from scratch in Excel and transformed into an interactive dashboard to analyze workforce performance, productivity, attendance, payroll, and operational efficiency. The project demonstrates data preparation, dashboard development, KPI reporting, and business insight generation.
+The project uses a **synthetic HR dataset** created in Microsoft Excel to simulate a realistic workplace environment. It analyzes employee performance, productivity, attendance, payroll, and workforce distribution through an interactive dashboard designed to support data-driven decision-making. :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 📂 Repository Contents
 
-📄 Employee-Performance-Report.pdf
+📄 **Employee-Performance-Report.pdf**
 
-Project documentation including methodology, dashboard design, insights, and recommendations.
+Comprehensive project report including project objectives, data generation methodology, dashboard design, business insights, strategic recommendations, and conclusions.
 
-📊 Employee_Performance_Dashboard.pbix
+📊 **Employee_Performance_Dashboard.pbix**
 
 Interactive Power BI dashboard.
 
-📑 excel/
+📑 **Employee-Performance-Dataset.xlsx**
 
-Employee-Performance-Dataset.xlsx
+Synthetic HR dataset created in Microsoft Excel.
+
 ---
 
 ## ▶️ How to View the Project
 
-1. Read **Employee-Performance-Report.pdf** to understand the project methodology.
+1. Read **Employee-Performance-Report.pdf** to understand the project methodology and analytical approach.
 2. Open **Employee_Performance_Dashboard.pbix** to explore the interactive dashboard.
 3. Review the Excel dataset to understand how the data was generated and prepared.
 
@@ -35,7 +36,7 @@ Employee-Performance-Dataset.xlsx
 
 ## 🧹 Data Preparation
 
-The HR dataset was created entirely in Microsoft Excel using formulas to simulate a realistic workplace environment.
+The dataset was created in **Microsoft Excel** to simulate a realistic workforce environment for analytical reporting.
 
 The preparation process included:
 
@@ -44,9 +45,11 @@ The preparation process included:
 - Calculating attendance scores
 - Calculating productivity ratios
 - Calculating performance scores
-- Assigning performance categories
-- Simulating performance-based salaries
-- Validating and preparing the dataset for Power BI
+- Classifying employee performance levels
+- Assigning performance-based salaries
+- Validating and preparing the dataset for dashboard development
+
+The dataset was then imported into **Power BI** for visualization and analysis. :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -64,14 +67,14 @@ The preparation process included:
 
 ## 📊 Dashboard Features
 
-- Interactive KPI Cards
-- Multi-page Dashboard
+- Executive KPI Cards
+- Interactive Charts
 - Department, Job Title, and Performance Filters
-- Navigation Buttons
-- Performance Insights
-- Executive Overview
+- Multi-page Dashboard Navigation
+- Workforce Performance Analysis
 - Employee Directory
-- Strategic Recommendations
+- Business Insights
+- Strategic Recommendations :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -79,18 +82,32 @@ The preparation process included:
 
 - Microsoft Power BI
 - Microsoft Excel
-- Power Query
 - Data Modeling
-- Data Visualization
-- KPI Reporting
 - Dashboard Development
+- KPI Reporting
+- Data Visualization
+- HR Analytics
 - Business Analysis
+
+---
+
+## 📊 Key Metrics
+
+- Total Employees
+- Monthly Payroll
+- Average Productivity
+- Completed Projects
+- Average Attendance
+- Top Employee
+- Excellent Employees
+- Low Performers
+- Employee Performance Score :contentReference[oaicite:3]{index=3}
 
 ---
 
 ## 📊 Data Source
 
-The dataset is synthetically generated and was created in Microsoft Excel for educational and portfolio purposes.
+This project uses a **synthetic HR dataset** created in Microsoft Excel for educational and portfolio purposes. It does not represent real organizational data. :contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -98,4 +115,5 @@ The dataset is synthetically generated and was created in Microsoft Excel for ed
 
 **Raghad Zayyat**
 
-Computer Engineering Graduate
+Computer Engineering Graduate  
+Data Analytics | Power BI | Microsoft Excel
