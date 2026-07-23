@@ -1,99 +1,91 @@
-# Interactive Workforce Performance Analytics Dashboard
+# Employee Performance Dashboard
+
+Power BI | Excel | HR Analytics
 
 ## Overview
 
-This project is an interactive HR analytics dashboard built using Microsoft Power BI. It analyzes workforce performance, productivity, attendance, payroll, and operational efficiency through interactive visualizations and business insights. The project demonstrates dashboard development and analytical reporting using a synthetically generated HR dataset.
+This repository contains an end-to-end HR analytics project developed using **Microsoft Power BI** and **Microsoft Excel**.
+
+The project analyzes employee performance, productivity, attendance, payroll, and workforce distribution through an interactive dashboard designed to support data-driven decision-making.
 
 ---
 
-## Project Objectives
+## 📂 Repository Contents
 
-- Analyze workforce performance across departments.
-- Monitor key HR metrics through interactive dashboards.
-- Evaluate productivity, attendance, and payroll trends.
-- Support data-driven decision-making using business insights.
+📄 employee_performance_report.pdf
+
+Full project report including dashboard pages, business insights, and recommendations.
+
+📊 employee_performance_dashboard.pbix
+
+Interactive Power BI dashboard.
+
+📑 excel/
+
+employee_performance_dataset.xlsx
 
 ---
 
-## Dataset
+## ▶️ How to View the Project
 
-The dataset was synthetically generated in Microsoft Excel to simulate a realistic workplace environment for dashboard development and analysis.
+- Start with **employee_performance_report.pdf** for the complete project overview.
+- Open **employee_performance_dashboard.pbix** to explore the interactive dashboard.
+- Review the Excel dataset to understand the data preparation process.
 
 ---
 
-## Tools & Technologies
+## 🧹 Data Preparation
+
+The HR dataset was created and prepared in **Microsoft Excel**, including:
+
+- Creating a structured employee dataset
+- Cleaning and validating employee records
+- Standardizing data fields
+- Preparing the dataset for dashboard development in Power BI
+
+---
+
+## 📈 Key Analysis Areas
+
+- Employee Performance
+- Productivity Analysis
+- Attendance Analysis
+- Payroll Overview
+- Department Distribution
+- Employee Directory
+
+---
+
+## 🛠️ Tools & Skills
 
 - Microsoft Power BI
 - Microsoft Excel
 - Power Query
-- Data Modeling
 - Data Visualization
+- Dashboard Development
+- KPI Reporting
+- Business Analysis
 
 ---
 
-## Dashboard Pages
-
-- Home
-- Executive Overview
-- Overview Insights
-- Performance Analysis
-- Performance Insights
-- Efficiency & Growth
-- Efficiency Insights
-- Employee Directory
-- Employee Insights
-
----
-
-## Dashboard Features
+## 📊 Dashboard Features
 
 - Interactive KPI Cards
-- Department, Job Title, and Performance slicers
-- Interactive page navigation
-- Performance and productivity analysis
-- Workforce distribution analysis
-- Business insights and recommendations
+- Dynamic Charts
+- Slicers & Filters
+- Multi-page Dashboard
+- Business Insights & Recommendations
 
 ---
 
-## Key Metrics
+## 📊 Data Source
 
-- Total Employees
-- Monthly Payroll
-- Average Productivity
-- Attendance Score
-- Completed Projects
-- Performance Distribution
-- Top Employee
+This project uses a **synthetic HR dataset** created for educational and portfolio purposes.
 
 ---
 
-## Skills Demonstrated
-
-- Dashboard Development
-- Data Cleaning & Transformation
-- Data Modeling
-- KPI Reporting
-- Data Visualization
-- Business Analysis
-- Analytical Reporting
-
----
-
-## Repository Contents
-
-- Workforce_Analytics.pbix
-- Workforce_Analytics_Report.pdf
-- Dataset.xlsx
-
----
-
-## Disclaimer
-
-The dataset used in this project is synthetically generated for learning and portfolio purposes. The results do not represent real organizational data.
-
----
-
-## Author
+## 👩‍💻 Author
 
 **Raghad Zayyat**
+
+Computer Engineering Graduate | Data Analytics | Power BI | Excel
