@@ -12,7 +12,7 @@ A synthetic HR dataset was created from scratch in Excel and transformed into an
 
 ## 📂 Repository Contents
 
-📄 Employee-Performance-Dashboard.pdf
+📄 Employee-Performance-Report.pdf
 
 Project documentation including methodology, dashboard design, insights, and recommendations.
 
@@ -28,7 +28,7 @@ Workforce Analytics and Performance InsightsDATA.xlsx
 
 ## ▶️ How to View the Project
 
-1. Read **Employee-Performance-Dashboard.pdf** to understand the project methodology.
+1. Read **Employee-Performance-Report.pdf** to understand the project methodology.
 2. Open **Employee_Performance_Dashboard.pbix** to explore the interactive dashboard.
 3. Review the Excel dataset to understand how the data was generated and prepared.
 
